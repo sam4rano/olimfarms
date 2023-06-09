@@ -1,3 +1,5 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+.listgroup {
+    display: flex;
+    justify-content: flex-end;
+    align-content: flex-end;
+}
